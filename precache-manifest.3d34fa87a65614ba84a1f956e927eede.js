@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/baselines.ea336b86.jpg"
   },
   {
-    "revision": "21a0798caf89d6b47e26",
+    "revision": "c7bc0c3a471484e2902b",
     "url": "/static/css/main.96ff2602.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/stock-predictor.908c4618.jpg"
   },
   {
-    "revision": "21a0798caf89d6b47e26",
-    "url": "/static/js/main.21a0798c.chunk.js"
+    "revision": "c7bc0c3a471484e2902b",
+    "url": "/static/js/main.c7bc0c3a.chunk.js"
   },
   {
     "revision": "0f216b1165c55d2b5b7dd76a0b886d8e",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/IMG-20170409-WA0023-round.2ec9d460.jpg"
   },
   {
-    "revision": "25ce8ee61debfe16230524f3e3664145",
+    "revision": "7af3225ef45aaaa1318fcb65ceafffe1",
     "url": "/index.html"
   }
 ];
