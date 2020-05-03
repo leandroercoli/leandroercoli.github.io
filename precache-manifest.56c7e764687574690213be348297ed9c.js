@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "161473894c858a0598ccdb57fc1f1518",
+    "revision": "b3550aecb931b1fc347612b568241e08",
     "url": "/index.html"
   },
   {
-    "revision": "b5b8f4269bb7466c2df8",
-    "url": "/static/css/main.09dca9c1.chunk.css"
+    "revision": "4f7086606943caa24bb2",
+    "url": "/static/css/main.4a60031c.chunk.css"
   },
   {
-    "revision": "3bddfa6f9d427fb7c57b",
-    "url": "/static/js/2.c05196e2.chunk.js"
+    "revision": "bc7c8b6c08b9e97e67ec",
+    "url": "/static/js/2.8a92ae6e.chunk.js"
   },
   {
-    "revision": "b5b8f4269bb7466c2df8",
-    "url": "/static/js/main.888683fb.chunk.js"
+    "revision": "0749163b59fbee32225059cb60c18af6",
+    "url": "/static/js/2.8a92ae6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36d9bdb8378776ca7823",
-    "url": "/static/js/runtime-main.bb84221d.js"
+    "revision": "4f7086606943caa24bb2",
+    "url": "/static/js/main.9bd10a35.chunk.js"
+  },
+  {
+    "revision": "3a8bdf59ed67d5581468",
+    "url": "/static/js/runtime-main.b75f0b56.js"
   },
   {
     "revision": "2ec9d460cfa410dd2046677b98873b7e",
@@ -28,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/banner-abbiocco.81074dda.png"
   },
   {
-    "revision": "6c8826404b7201f28e632be521f1c2a5",
-    "url": "/static/media/banner-hygge.6c882640.png"
+    "revision": "751b9ae487428af2c60eb11967da6b57",
+    "url": "/static/media/banner-hygge.751b9ae4.jpg"
   },
   {
     "revision": "5b234291d3676dcc17554ffb838cb5b5",
@@ -40,24 +44,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/banner-plantcare.74c63ad2.png"
   },
   {
+    "revision": "c4f20aca8b357b6082cd1e24591aaff7",
+    "url": "/static/media/banner-web-design-imitates-art.c4f20aca.jpg"
+  },
+  {
     "revision": "ea336b8608af0e9a1b0d1a765e2b5015",
     "url": "/static/media/baselines.ea336b86.jpg"
+  },
+  {
+    "revision": "72a07419aad78498231b3a53aa964e85",
+    "url": "/static/media/black-wireless-computer-keyboard-beside-black-ceramic-mug-3740725.72a07419.jpg"
   },
   {
     "revision": "908e84de572a9528ed6e7ac7c8b6edaf",
     "url": "/static/media/icon-medium.908e84de.png"
   },
   {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "/static/media/logo.25bf045c.svg"
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "d60fa2cbe1d779ee3d5885f261560c8e",
     "url": "/static/media/smarthome-interface.d60fa2cb.jpg"
-  },
-  {
-    "revision": "6148313603c464e101a3faba1c6955fc",
-    "url": "/static/media/space-game.61483136.jpg"
   },
   {
     "revision": "908c46185567d3302b1c83fc9bea9478",
