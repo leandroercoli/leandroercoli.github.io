@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a60031c.chunk.css",
-    "main.js": "/static/js/main.9bd10a35.chunk.js",
-    "main.js.map": "/static/js/main.9bd10a35.chunk.js.map",
+    "main.css": "/static/css/main.22467430.chunk.css",
+    "main.js": "/static/js/main.9a5d1b28.chunk.js",
+    "main.js.map": "/static/js/main.9a5d1b28.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b75f0b56.js",
     "runtime-main.js.map": "/static/js/runtime-main.b75f0b56.js.map",
-    "static/js/2.8a92ae6e.chunk.js": "/static/js/2.8a92ae6e.chunk.js",
-    "static/js/2.8a92ae6e.chunk.js.map": "/static/js/2.8a92ae6e.chunk.js.map",
+    "static/js/2.63dd63c9.chunk.js": "/static/js/2.63dd63c9.chunk.js",
+    "static/js/2.63dd63c9.chunk.js.map": "/static/js/2.63dd63c9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.56c7e764687574690213be348297ed9c.js": "/precache-manifest.56c7e764687574690213be348297ed9c.js",
+    "precache-manifest.3f968aeb919ca6c985812802d1c94076.js": "/precache-manifest.3f968aeb919ca6c985812802d1c94076.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4a60031c.chunk.css.map": "/static/css/main.4a60031c.chunk.css.map",
-    "static/js/2.8a92ae6e.chunk.js.LICENSE.txt": "/static/js/2.8a92ae6e.chunk.js.LICENSE.txt",
+    "static/css/main.22467430.chunk.css.map": "/static/css/main.22467430.chunk.css.map",
+    "static/js/2.63dd63c9.chunk.js.LICENSE.txt": "/static/js/2.63dd63c9.chunk.js.LICENSE.txt",
     "static/media/IMG-20170409-WA0023-round.jpg": "/static/media/IMG-20170409-WA0023-round.2ec9d460.jpg",
     "static/media/banner-abbiocco.png": "/static/media/banner-abbiocco.81074dda.png",
     "static/media/banner-hygge.jpg": "/static/media/banner-hygge.751b9ae4.jpg",
     "static/media/banner-medium-hooks.jpg": "/static/media/banner-medium-hooks.5b234291.jpg",
-    "static/media/banner-plantcare.png": "/static/media/banner-plantcare.74c63ad2.png",
+    "static/media/banner-plant-care-logo-full-2.png": "/static/media/banner-plant-care-logo-full-2.4268cf8f.png",
     "static/media/banner-web-design-imitates-art.jpg": "/static/media/banner-web-design-imitates-art.c4f20aca.jpg",
     "static/media/baselines.jpg": "/static/media/baselines.ea336b86.jpg",
     "static/media/black-wireless-computer-keyboard-beside-black-ceramic-mug-3740725.jpg": "/static/media/black-wireless-computer-keyboard-beside-black-ceramic-mug-3740725.72a07419.jpg",
     "static/media/icon-medium.png": "/static/media/icon-medium.908e84de.png",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
     "static/media/smarthome-interface.jpg": "/static/media/smarthome-interface.d60fa2cb.jpg",
     "static/media/stock-predictor.jpg": "/static/media/stock-predictor.908c4618.jpg",
     "static/media/tutorialesuns-interface.jpg": "/static/media/tutorialesuns-interface.0f216b11.jpg",
@@ -29,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b75f0b56.js",
-    "static/js/2.8a92ae6e.chunk.js",
-    "static/css/main.4a60031c.chunk.css",
-    "static/js/main.9bd10a35.chunk.js"
+    "static/js/2.63dd63c9.chunk.js",
+    "static/css/main.22467430.chunk.css",
+    "static/js/main.9a5d1b28.chunk.js"
   ]
 }
